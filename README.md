@@ -8,7 +8,7 @@
 <a><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 <a><img src="https://img.shields.io/badge/RTOS-5dc863ff?style=flat-square&logo=&logoColor="/></a>
 ## My Activity
-* I am a Second year Software Engineering Student, at Korea Aerospace University (KAU).
+* I am a Third year Software Engineering Student, at Korea Aerospace University (KAU).
 * I am currently working on 42seoul subjects (South Korea branch of 42 ecole)
 
 ## I'm interested in
