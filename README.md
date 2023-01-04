@@ -14,7 +14,6 @@
 
 ## I'm interested in
 * Embedded C
-* RTOS
 
 ### My Blog
 <a href="https://recondite-pelican-09b.notion.site/INTRODUCTION-fbfc1fa045cf4be59a4b310d4c05b1b5" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
