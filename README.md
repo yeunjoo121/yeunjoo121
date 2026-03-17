@@ -9,7 +9,8 @@
 <a><img src="https://img.shields.io/badge/Optimization-0078D4?style=flat-square&logo=data-science&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 ## My Activity
-* 🎓 Completed B.S. and M.S. in **Computer Science** at **Korea Aerospace University (KAU)**.
+* 🎓 **M.S. in Smart Air Mobility**, Korea Aerospace University (KAU) | Feb 2026
+* 🎓 **B.S. in Computer Science**, Korea Aerospace University (KAU)
 * 🚀 Research Assistant at **ASOL (Autonomous Systems and Optimization Laboratory)**.
     * Developed algorithms for **Task Assignment and Scheduling** based on distributed optimization.
     * Worked on modularization and control for **Verically Flying Cylindrical Vehicle (VFCV)** and reusable projectile projects.
