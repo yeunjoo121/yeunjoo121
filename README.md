@@ -4,16 +4,21 @@
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-FFE873?style=flat-square&logo=Python&logoColor=306998"/></a>
-<a><img src="https://img.shields.io/badge/VMBox-white?style=flat-square&logo=virtualbox&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
+<a><img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/RTOS-5dc863ff?style=flat-square&logo=&logoColor="/></a>
+<a><img src="https://img.shields.io/badge/Optimization-0078D4?style=flat-square&logo=data-science&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 ## My Activity
-* I am a Third year Software Engineering Student, at Korea Aerospace University (KAU).
-* I was working on 42seoul subjects (South Korea branch of 42 ecole)
-* I am working in ASOL(Autonomous system and Optimization Labatory) and taking an effort for reuse projectile project
+* 🎓 Completed B.S. and M.S. in **Computer Science** at **Korea Aerospace University (KAU)**.
+* 🚀 Research Assistant at **ASOL (Autonomous Systems and Optimization Laboratory)**.
+    * Developed algorithms for **Task Assignment and Scheduling** based on distributed optimization.
+    * Worked on modularization and control for **Verically Flying Cylindrical Vehicle (VFCV)** and reusable projectile projects.
+* 💻 Experienced in **42 Seoul** (South Korea branch of 42 ecole), building strong foundations in low-level programming.
 
 ## I'm interested in
-* Embedded C
+* **Optimization:** Distributed Optimization, Task Assignment and Scheduling.
+* **Embedded Systems:** RTOS and Low-level C programming.
+* **AI & Future Tech:** Large Language Models (LLM) and Multi-Agent Systems.
 
 ### My Blog
 <a href="https://recondite-pelican-09b.notion.site/INTRODUCTION-fbfc1fa045cf4be59a4b310d4c05b1b5" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
